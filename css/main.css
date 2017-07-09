@@ -96,7 +96,7 @@ textarea {
    ========================================================================== */
 
 nav {
-
+    background-color: #b3d4fc;
 }
 nav li {
     display: inline-block;
@@ -114,6 +114,9 @@ nav li {
     padding: 0 5px;
     background-color: red;
 }
+
+
+
 
 
 
